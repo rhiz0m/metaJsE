@@ -1,4 +1,4 @@
-//Exercise: Practicing with functions
+// Exercise: Practicing with functions
 
 function letterFinder(word, match) {
   for (i = 0; i < word.length; i++) {
