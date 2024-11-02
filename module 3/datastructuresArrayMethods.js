@@ -7,7 +7,7 @@
  * Built in methods: forEach(), filter(), map()
  *
  */
-
+ 
 /**** FOREACH */
 
 //the forEach() method accepts a function that will work on each array
