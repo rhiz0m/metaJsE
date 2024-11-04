@@ -21,3 +21,4 @@ const data = {
 //console.log(data) // { firstName: 'John', lastName: 'Doe', greeting: 'Hello!' }
 
 console.log(JSON.stringify(data)) // {"firstName":"John","lastName":"Doe","greeting":"Hello!"}
+
